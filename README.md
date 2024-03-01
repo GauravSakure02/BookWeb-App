@@ -1,3 +1,3 @@
 # BookWeb-App
 
-Simple CRUD Operations using Core Java , JSP , Servlet and JDBC
+Simple CRUD Operations using *Core Java , JSP , Servlet and JDBC*
